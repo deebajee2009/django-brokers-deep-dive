@@ -1,1 +1,1 @@
-# django-brokers-deep-dive
+# راهنمای جامع سیستم‌های پیام‌رسان (Redis, RabbitMQ, Kafka) برای توسعه‌دهندگان جنگو
